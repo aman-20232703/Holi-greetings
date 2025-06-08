@@ -5,7 +5,8 @@ This Python script generates a beautiful **Holi-themed colorful dot art** using 
 ## 📁 File
 
 - `holi.py`
-- 
+  
+  ---
 ## ✨ Features
 
 - Random RGB dot generation
