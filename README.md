@@ -2,14 +2,10 @@
 
 This Python script generates a beautiful **Holi-themed colorful dot art** using the `turtle` graphics module and random RGB colors. At the end, it displays a festive greeting – **"Happy Holi"** – in bold text.
 
----
-
 ## 📁 File
 
 - `holi.py`
-
----
-
+- 
 ## ✨ Features
 
 - Random RGB dot generation
